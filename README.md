@@ -1,25 +1,40 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Olá! Eu sou Thaynan Passos
+<h1 align="center">Olá, eu sou Thaynan Passos 👋</h1>
+
+<h3 align="center">
+Desenvolvedor Back-end • Java • Spring Boot
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=Desenvolvedor+Back-end;Java+%7C+Spring+Boot;HTML+%7C+CSS+%7C+JavaScript;Sempre+aprendendo+novas+tecnologias" />
+  <a href="https://thaynan-passos.github.io/">
+    <img src="https://img.shields.io/badge/🌐_Portfólio-121212?style=for-the-badge">
+  </a>
+  <a href="https://github.com/Thaynan-passos">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+  </a>
 </p>
 
----
-
-## 💻 Sobre mim
-
-Sou desenvolvedor focado em desenvolvimento Back-end utilizando **Java** e **Spring Boot**, sempre buscando escrever código limpo, organizado e escalável.
-
-Também possuo experiência com desenvolvimento Web utilizando HTML, CSS e JavaScript, além de trabalhar com bancos de dados, Docker e ferramentas modernas de desenvolvimento.
-
-Atualmente estou expandindo meus conhecimentos em arquitetura de software, APIs REST, Docker e desenvolvimento Full Stack.
+<p align="center">
+💻 Desenvolvedor apaixonado por Java, Spring Boot, desenvolvimento Web e criação de aplicações modernas.
+</p>
 
 ---
 
 ## 🚀 Tecnologias
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,html,css,js,python,mysql,docker,git,github,maven,idea,vscode&perline=7"/>
+<img src="https://skillicons.dev/icons?i=java,spring,html,css,js,python,mysql,docker,git,github,maven,idea,vscode&perline=6"/>
+</p>
+
+---
+
+## 🌐 Portfólio
+
+<p align="center">
+
+<a href="https://thaynan-passos.github.io/">
+<img src="https://img.shields.io/badge/Acessar%20Portfólio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white">
+</a>
+
 </p>
 
 ---
@@ -28,84 +43,29 @@ Atualmente estou expandindo meus conhecimentos em arquitetura de software, APIs 
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thaynan-passos&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thaynan-passos&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Thaynan-passos&theme=tokyonight&hide_border=true"/>
 
 </p>
-
----
-
-## 🔥 Contribuições
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Thaynan-passos&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thaynan-passos&theme=tokyonight"/>
 
 </p>
 
 ---
 
-## 📌 Principais projetos
+## 📌 Projetos
 
 * 📦 EstoqueFácil
-
-  * Sistema de gerenciamento de estoque desenvolvido com Spring Boot.
-
-* 🌐 Projetos Web
-
-  * Sites responsivos utilizando HTML, CSS e JavaScript.
-
 * 📱 Offline APK Translator
-
-  * Aplicação para tradução offline de APKs.
-
+* 🌐 Portfólio Pessoal
 * ☕ Projetos Java
-
-  * Exercícios, sistemas acadêmicos e estudos em Java.
-
----
-
-## 🎯 Atualmente estudando
-
-* Spring Security
-
-* Docker
-
-* APIs REST
-
-* Arquitetura de Software
-
-* Banco de Dados
-
----
-
-## 📈 Objetivos
-
-✔ Construir aplicações escaláveis
-
-✔ Aprimorar conhecimentos em Spring Boot
-
-✔ Aprender novas tecnologias constantemente
-
-✔ Contribuir para projetos Open Source
 
 ---
 
 ## 📫 Contato
 
-<p align="left">
+🌐 Portfólio: https://thaynan-passos.github.io/
 
-<a href="https://github.com/Thaynan-passos">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-⭐ Obrigado por visitar meu perfil!
-
-</p>
+💻 GitHub: https://github.com/Thaynan-passos
