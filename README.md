@@ -20,9 +20,20 @@ Desenvolvedor Back-end • Java • Spring Boot
 ---
 
 ## 🚀 Tecnologias
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,html,css,js,python,mysql,docker,git,github,maven,idea,vscode&perline=6"/>
+  <a href="https://www.oracle.com/java/" target="_blank"><img src="https://skillicons.dev/icons?i=java" title="Java"/></a>
+  <a href="https://spring.io/" target="_blank"><img src="https://skillicons.dev/icons?i=spring" title="Spring / Spring Boot"/></a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" title="HTML"/></a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" title="CSS"/></a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" title="JavaScript"/></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" title="Python"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" title="MySQL"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" title="Docker"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" title="Git"/></a>
+  <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" title="GitHub"/></a>
+  <a href="https://maven.apache.org/" target="_blank"><img src="https://skillicons.dev/icons?i=maven" title="Maven"/></a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://skillicons.dev/icons?i=idea" title="IntelliJ IDEA"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" title="Visual Studio Code"/></a>
 </p>
 
 ---
