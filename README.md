@@ -17,7 +17,22 @@ Construo aplicações e APIs explorando backend, arquitetura de microsserviços 
 
 <div align="center">
 
-[![Tecnologias](https://skillicons.dev/icons?i=java,spring,ts,nodejs,js,python,kotlin,cpp,docker,kafka,mysql,html,css,git,github,maven&perline=8)](https://skillicons.dev)
+<a href="https://www.java.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a>
+<a href="https://spring.io/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=spring" alt="Spring" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>
+<a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
+<a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
+<a href="https://kotlinlang.org/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" /></a>
+<a href="https://isocpp.org/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" /></a>
+<a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
+<a href="https://kafka.apache.org/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=kafka" alt="Apache Kafka" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
+<a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a>
+<a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=css" alt="CSS" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
+<a href="https://github.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+<a href="https://maven.apache.org/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=maven" alt="Maven" /></a>
 
 </div>
 
