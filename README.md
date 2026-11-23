@@ -2,11 +2,11 @@
 
 # Olá, eu sou Thaynan Passos 👋
 
-### Desenvolvedor de Software | Java • TypeScript • Microsserviços
+### Desenvolvedor Full Stack | Java • TypeScript • Python • Microsserviços
 
 Construo aplicações e APIs explorando backend, arquitetura de microsserviços e desenvolvimento web. Também gosto de experimentar novas tecnologias em projetos acadêmicos e pessoais.
 
-[![Portfólio](https://img.shields.io/badge/Portfólio-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white)](https://thaynan-passos.github.io/)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white)](https://thaynan-passos.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thaynan-passos)
 
 </div>
@@ -44,10 +44,10 @@ Construo aplicações e APIs explorando backend, arquitetura de microsserviços 
 <div align="center">
 
 <a href="https://github.com/Thaynan-passos">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Thaynan-passos&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=E5E7EB&custom_title=Thaynan%20Passos%20%7C%20GitHub" alt="Estatísticas do GitHub de Thaynan Passos" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Thaynan-passos&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB&icon_color=22D3EE" />
 </a>
 <a href="https://github.com/Thaynan-passos">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thaynan-passos&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB&custom_title=Tecnologias%20mais%20usadas" alt="Linguagens mais usadas por Thaynan Passos" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thaynan-passos&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB" />
 </a>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Thaynan-passos&theme=transparent&hide_border=true&ring=A78BFA&fire=22D3EE&currStreakLabel=E5E7EB&sideLabels=E5E7EB&dates=9CA3AF)](https://git.io/streak-stats)
